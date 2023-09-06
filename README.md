@@ -10,11 +10,6 @@ also I do some Kubernetes & I build random stuff.
 - Working on llm traning with rank-decomposition (trying to cook new architecture)
 - Learning about Eigenspinor
 
-### TODO
--  Finetune fast way 
--  fastpath (easy way to build k8s cluster)
-- QBIT simulator (maybe)
-
 
 ### Email
 you can reach me at: `00shxf@gmail.com`
