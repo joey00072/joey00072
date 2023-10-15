@@ -21,7 +21,3 @@ also I do some Kubernetes & I build random stuff.
 ### Email
 you can reach me at: `00shxf@gmail.com` <br>
 or twitter [@shxf0072](https://twitter.com/shxf0072)
-
----
-last update: 15 AUG 2023
-
