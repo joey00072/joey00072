@@ -7,8 +7,8 @@ also I do some Kubernetes & I build random stuff.
 ### Things Might interest you 
 - [TinyTorch](https://github.com/joey00072/Tinytorch) Autograd engine under 1000 line (capable of training llm)
 - [Baji](https://github.com/joey00072/Baji-Marathi-Programing-Language) Marathi Programing language
+- [Ohara](https://github.com/joey00072/ohara) ML paper implementations
 - [Running llama2.c on buget android](https://www.pythonstuff.com/blog/running_llama2.c_on_buget_android) - Blog
-- [Ohara](https://github.com/joey00072/ohara) paper implementations
 - [iza](https://github.com/joey00072/iza) Container Runtime (like docker)
 
 
