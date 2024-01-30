@@ -9,12 +9,12 @@ also I do some Kubernetes & I build random stuff.
 - [Baji](https://github.com/joey00072/Baji-Marathi-Programing-Language) Marathi Programing language
 - [Running llama2.c on buget android](https://www.pythonstuff.com/blog/running_llama2.c_on_buget_android) - Blog
 - [Ohara](https://github.com/joey00072/ohara) paper implementations
+- [iza](https://github.com/joey00072/iza) Container Runtime (like docker)
 
 
 ### Thing Working On
-- RetD'Net (Distilled
- Retnet)
-- [Datawarden](https://github.com/e-xperiments/datawarden) llm assisted dataset preparation 
+- misMamba(Distilled
+ mamba from mistral)
 - Working on llm traning with rank-decomposition (trying to cook new architecture)
 - Learning about Eigenspinor (prep for quantum computer simulator)
 
