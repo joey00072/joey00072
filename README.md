@@ -22,5 +22,5 @@ also I do some Kubernetes & I build random stuff.
 you can reach me at: `00shxf@gmail.com` <br>
 or dm on twitter [@shxf0072](https://twitter.com/shxf0072)
 
-#### Fund My Caffeine Addiction.
+---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R8KQTZ5)
