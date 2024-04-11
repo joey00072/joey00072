@@ -1,7 +1,7 @@
 # Hello, I'm [Joey](https://github.com/joey00072/) 👋
 
 
-I am Python dev. I build ML model (including but not limited to LLM).<br>
+I am researcher at [Nous](nousresearch.com). I build ML model (including but not limited to LLM).<br>
 also I do some Kubernetes & I build random stuff.
 
 ### Things Might interest you 
