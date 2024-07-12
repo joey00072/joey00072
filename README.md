@@ -13,8 +13,6 @@ also I do some Kubernetes & I build random stuff.
 
 
 ### Thing Working On
-- misMamba(Distilled
- mamba from mistral)
 - Working on llm traning with rank-decomposition (trying to cook new architecture)
 - Learning about Eigenspinor (prep for quantum computer simulator)
 
