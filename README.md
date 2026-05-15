@@ -20,7 +20,7 @@ also I do some Kubernetes & I build random stuff.
 you can reach me at: `00shxf@gmail.com` <br>
 
 # Warning my twitter account is hacked do not reposent to any dm on this account
->>> https://twitter.com/shxf0072
+>>> https://x.com/shxf0072
 
 ---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R8KQTZ5)
