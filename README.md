@@ -1,8 +1,10 @@
 # Hello, I'm [Joey](https://github.com/joey00072/) 👋
 
 # Warning my twitter account is hacked do not reposent to any dm on this account
->>> https://x.com/shxf0072
+> ⚠️ [@shxf0072](https://x.com/shxf0072) ❌ **Hacked — do not respond to DMs**
 
+---
+> ✅ [@joey00072fp4](https://x.com/joey00072fp4) — Real account
 ---
 
 I am python dev. I build ML model (including but not limited to LLM).<br>
