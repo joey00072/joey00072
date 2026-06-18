@@ -1,11 +1,5 @@
 # Hello, I'm [Joey](https://github.com/joey00072/) 👋
 
-# Warning my twitter account is hacked do not reposent to any dm on this account
-> ⚠️ [@shxf0072](https://x.com/shxf0072) ❌ **Hacked — do not respond to DMs**
-
----
-> ✅ [@joey00072fp4](https://x.com/joey00072fp4) — Real account
----
 
 I am python dev. I build ML model (including but not limited to LLM).<br>
 also I do some Kubernetes & I build random stuff.
@@ -26,5 +20,10 @@ also I do some Kubernetes & I build random stuff.
 you can reach me at: `00shxf@gmail.com` <br>
 
 
+# Warning my twitter account is hacked do not reposent to any dm on this account
 ---
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R8KQTZ5)
+> ✅ [@joey00072fp4](https://x.com/joey00072fp4) — Real account
+---
+> ⚠️ [@shxf0072](https://x.com/shxf0072) ❌ **Hacked — do not respond to DMs**
+
+
