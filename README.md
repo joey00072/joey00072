@@ -24,6 +24,6 @@ you can reach me at: `00shxf@gmail.com` <br>
 ---
 > ✅ [@joey00072fp4](https://x.com/joey00072fp4) — Real account
 ---
-> ⚠️ [@shxf0072](https://x.com/shxf0072) ❌ **Hacked — do not respond to DMs**
+> ⚠️ [@joey072shx](https://x.com/joey072shx) ❌ **Hacked — do not respond to DMs**
 
 
