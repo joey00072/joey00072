@@ -20,10 +20,10 @@ also I do some Kubernetes & I build random stuff.
 you can reach me at: `00shxf@gmail.com` <br>
 
 
-# Warning my twitter account is hacked do not reposent to any dm on this account
+> ⚠️ [@joey072shx](https://x.com/joey072shx) (This account was hacked from june, nov 2026, sorry if you got any werid dms, that wanst me)
 ---
 > ✅ [@joey00072fp4](https://x.com/joey00072fp4) — Real account
----
-> ⚠️ [@joey072shx](https://x.com/joey072shx) ❌ **Hacked — do not respond to DMs**
+
+
 
 
