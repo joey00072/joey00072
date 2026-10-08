@@ -21,7 +21,7 @@ you can reach me at: `00shxf@gmail.com` <br>
 
 # Twitter
 
->  [@joey072shx](https://x.com/joey072shx) (This account was hacked from june, nov 2026, sorry if you got any werid dms, that wanst me)
+>  [@joey072shx](https://x.com/joey072shx)  (This account was hacked from june 2026 - nov 2026, sorry if you got any werid dms in. that time, that wanst me!)
 ---
 >  [@joey00072fp4](https://x.com/joey00072fp4) — Real account
 
